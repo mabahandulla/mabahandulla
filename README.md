@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mabahandulla
+- 👋 Hi, I’m Aleksander.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate with experienced Java programmers :)
