@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksander.
+- 👋 Hi, I’m Aleksandr.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate with experienced Java programmers :)
